@@ -1,5 +1,5 @@
 <a href="https://www.linkedin.com/in/erezbirenholz/" target="_blank">
-<img src="https://img.shields.io/badge/LinkedIn-F6F8FA?logo=linkedin&logoColor=0077B5" alt="LinkedIn logo" title="LinkedIn" margin="100px" height="35" align="right" />
+<img src="https://img.shields.io/badge/LinkedIn-F6F8FA?logo=linkedin&logoColor=0A66C2" alt="LinkedIn logo" title="LinkedIn" margin="100px" height="35" align="right" />
 </a>
 &nbsp;
 <a href="" target="_blank">
