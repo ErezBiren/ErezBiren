@@ -53,12 +53,9 @@
 
 &nbsp;
 
-<!-- <img src="https://img.shields.io/badge/Tailwind%20CSS-F6F8FA?logo=tailwind-css&logoColor=38B2AC" alt="Tailwind CSS logo" title="Tailwind CSS" height="25" />
-&nbsp; -->
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ErezBiren&theme=default)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=ErezBiren)](https://github.com/ryo-ma/github-profile-trophy)
+<!--[![trophy](https://github-profile-trophy.vercel.app/?username=ErezBiren)](https://github.com/ryo-ma/github-profile-trophy)-->
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ErezBiren&show_icons=true)
 
