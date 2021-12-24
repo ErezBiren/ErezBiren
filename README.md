@@ -39,7 +39,7 @@
 &nbsp;
 <br>
 
-## ![#f03c15](https://via.placeholder.com/15/1589F0/000000?text=+) Currently learning or interested in learning soon
+## ![#f03c15](https://via.placeholder.com/15/1589F0/000000?text=+) Currently learning or interested in learning
 
 [<img src="https://img.shields.io/badge/GraphQL-F6F8FA?logo=graphql&logoColor=E10098" alt="GraphQL logo" title="GraphQL" height="25" />]()
 &nbsp;
