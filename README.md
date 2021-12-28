@@ -3,8 +3,8 @@
 </a>
 &nbsp;
 <a href="" target="_blank">
-<img src="https://img.shields.io/badge/-My%20Portfolio-%23F6F8FA?logo=angelList&logoColor=blue" alt="Portfolio logo" title="Portfolio" height="35" align="right"/>
-</a>
+<!--<img src="https://img.shields.io/badge/-My%20Portfolio-%23F6F8FA?logo=angelList&logoColor=blue" alt="Portfolio logo" title="Portfolio" height="35" align="right"/>
+</a>-->
 &nbsp;
   </span>
 
