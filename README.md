@@ -8,7 +8,7 @@
 &nbsp;
   </span>
 
-## ![#f03c15](https://via.placeholder.com/15/1589F0/000000?text=+) Technologies and tools
+## Technologies and tools
 <img src="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" align="right" width="340px" height="330px" >
 
 [<img src="https://img.shields.io/badge/HTML5-F6F8FA?logo=html5&logoColor=E34F26" alt="HTML5 logo" title="HTML5" height="25" />]()
@@ -39,7 +39,7 @@
 &nbsp;
 <br>
 
-## ![#f03c15](https://via.placeholder.com/15/1589F0/000000?text=+) Currently learning or interested in learning
+## Currently learning or interested in learning
 
 [<img src="https://img.shields.io/badge/GraphQL-F6F8FA?logo=graphql&logoColor=E10098" alt="GraphQL logo" title="GraphQL" height="25" />]()
 &nbsp;
