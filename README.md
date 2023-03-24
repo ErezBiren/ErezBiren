@@ -1,13 +1,3 @@
-<a href="https://www.linkedin.com/in/erezbirenholz/" target="_blank">
-<img src="https://img.shields.io/badge/LinkedIn-F6F8FA?logo=linkedin&logoColor=0A66C2" alt="LinkedIn logo" title="LinkedIn" margin="100px" height="35" align="right" />
-</a>
-&nbsp;
-<a href="" target="_blank">
-<!--<img src="https://img.shields.io/badge/-My%20Portfolio-%23F6F8FA?logo=angelList&logoColor=blue" alt="Portfolio logo" title="Portfolio" height="35" align="right"/>
-</a>-->
-&nbsp;
-  </span>
-
 ## Technologies and tools
 <img src="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" align="right" width="340px" height="330px" >
 
