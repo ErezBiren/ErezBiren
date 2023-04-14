@@ -1,4 +1,9 @@
-## Technologies and tools
+<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
+
+
+<p>Welcome to my page! </br> I'm Erez, Fullstack developer from <img src="https://img.freeflagicons.com/thumb/round_icon/israel/israel_640.png" width="20"/> <b>Tel Aviv, Israel</b>
+
+<h3>Things I code with</h3>
 <img src="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" align="right" width="340px" height="330px" >
 
 [<img src="https://img.shields.io/badge/HTML5-F6F8FA?logo=html5&logoColor=E34F26" alt="HTML5 logo" title="HTML5" height="25" />]()
@@ -29,7 +34,7 @@
 &nbsp;
 <br>
 
-## Currently learning or interested in learning
+<h3> Currently learning or interested in learning </h3>
 
 [<img src="https://img.shields.io/badge/GraphQL-F6F8FA?logo=graphql&logoColor=E10098" alt="GraphQL logo" title="GraphQL" height="25" />]()
 &nbsp;
